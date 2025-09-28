@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚗 AI-Powered Full Stack Car Marketplace
 
-## Getting Started
+A full-stack AI-driven car marketplace designed to revolutionize the way buyers and sellers interact with car listings. This project integrates modern frontend and backend frameworks with AI-powered features for a smart and seamless car buying experience.
 
-First, run the development server:
+✨ Demo & Preview
 
-```bash
+
+Interactive AI search, dashboards, and seamless UI in action!
+
+🔗 Check the live project: https://vehiql-psi.vercel.app/
+
+🛠️ Tech Stack
+Frontend	Backend	AI & Database	Deployment
+React 19	Prisma	Gemini AI	Vercel
+Next.js 15	Supabase	Image Recognition	
+Shadcn UI		Secure Auth	
+Tailwind CSS		Role-Based Dashboards	
+🚀 Key Features
+Feature	Description
+AI-Powered Search	Quickly find cars using smart AI filters and search suggestions.
+Image Recognition	Upload a car image to find similar listings instantly.
+Secure Authentication	Role-based dashboards for Admin, Seller, and Buyer.
+EMI Calculator	Helps buyers calculate financing instantly.
+Modular Design	Reusable components for scalable development.
+Responsive UI	Works flawlessly across all devices and screen sizes.
+📷 Screenshots
+<div style="display:flex; gap:10px; flex-wrap: wrap;"> <img src="https://user-images.githubusercontent.com/your-username/demo1.png" width="300"/> <img src="https://user-images.githubusercontent.com/your-username/demo2.png" width="300"/> <img src="https://user-images.githubusercontent.com/your-username/demo3.png" width="300"/> </div>
+
+(Replace the above links with your actual screenshots)
+
+⚡ Installation & Running Locally
+
+Clone the repository:
+
+git clone https://github.com/adityakumardubey11/your-repo-name.git
+cd your-repo-name
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
+ to view the project locally.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📝 Future Enhancements
 
-## Learn More
+Real-time chat between buyers and sellers
 
-To learn more about Next.js, take a look at the following resources:
+Payment gateway integration for instant transactions
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Advanced predictive AI for car price suggestions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🤝 Contribution
 
-## Deploy on Vercel
+Feel free to fork, raise issues, or submit pull requests to enhance the project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📌 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Aditya Kumar Dubey – Full Stack Developer | AI Enthusiast
+GitHub
+ | LinkedIn
