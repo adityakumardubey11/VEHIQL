@@ -1,68 +1,68 @@
-🚗 AI-Powered Full Stack Car Marketplace
+🚗 VEHIQL – AI-Powered Full Stack Car Marketplace
 
-A full-stack AI-driven car marketplace designed to revolutionize the way buyers and sellers interact with car listings. This project integrates modern frontend and backend frameworks with AI-powered features for a smart and seamless car buying experience.
+Welcome to VEHIQL, a cutting-edge full-stack car marketplace that seamlessly integrates artificial intelligence with modern web technologies. Designed for both buyers and sellers, VEHIQL offers an intuitive platform to browse, list, and manage car listings with enhanced features like AI-powered search and image recognition.
 
-✨ Demo & Preview
+🌟 Key Features
 
+AI-Powered Search: Utilize advanced AI algorithms to quickly find cars based on user preferences.
 
-Interactive AI search, dashboards, and seamless UI in action!
+Image Recognition: Upload car images to find similar listings instantly.
 
-🔗 Check the live project: https://vehiql-psi.vercel.app/
+Role-Based Dashboards: Different dashboards for Admin, Seller, and Buyer, each with tailored functionalities.
+
+EMI Calculator: Instantly calculate equated monthly installments for car loans.
+
+Modular Component Architecture: Built with reusable components for scalability and maintainability.
+
+Responsive Design: Optimized for a seamless experience across all devices.
 
 🛠️ Tech Stack
-Frontend	Backend	AI & Database	Deployment
-React 19	Prisma	Gemini AI	Vercel
-Next.js 15	Supabase	Image Recognition	
-Shadcn UI		Secure Auth	
-Tailwind CSS		Role-Based Dashboards	
-🚀 Key Features
-Feature	Description
-AI-Powered Search	Quickly find cars using smart AI filters and search suggestions.
-Image Recognition	Upload a car image to find similar listings instantly.
-Secure Authentication	Role-based dashboards for Admin, Seller, and Buyer.
-EMI Calculator	Helps buyers calculate financing instantly.
-Modular Design	Reusable components for scalable development.
-Responsive UI	Works flawlessly across all devices and screen sizes.
-📷 Screenshots
-<div style="display:flex; gap:10px; flex-wrap: wrap;"> <img src="https://user-images.githubusercontent.com/your-username/demo1.png" width="300"/> <img src="https://user-images.githubusercontent.com/your-username/demo2.png" width="300"/> <img src="https://user-images.githubusercontent.com/your-username/demo3.png" width="300"/> </div>
 
-(Replace the above links with your actual screenshots)
+Frontend: React 19, Next.js 15, Shadcn UI, Tailwind CSS
 
-⚡ Installation & Running Locally
+Backend: Prisma, Supabase
 
-Clone the repository:
+AI Integration: Gemini AI for image recognition and smart search
 
-git clone https://github.com/adityakumardubey11/your-repo-name.git
-cd your-repo-name
+Authentication: Role-based secure authentication
+
+Deployment: Vercel
 
 
-Install dependencies:
+🚀 Getting Started
+Clone the Repository
+git clone https://github.com/adityakumardubey11/VEHIQL.git
+cd VEHIQL
 
+Install Dependencies
 npm install
 
-
-Run the project:
-
+Run the Development Server
 npm run dev
 
+
 Open http://localhost:3000
- to view the project locally.
+ to view the application in your browser.
 
+🔗 Live Demo
 
-📝 Future Enhancements
+Experience VEHIQL in action by visiting the live demo: https://vehiql-psi.vercel.app/
 
-Real-time chat between buyers and sellers
+🧠 Future Enhancements
 
-Payment gateway integration for instant transactions
+Real-Time Chat: Implement real-time messaging between buyers and sellers.
 
-Advanced predictive AI for car price suggestions
+Payment Integration: Integrate payment gateways for seamless transactions.
+
+Advanced AI Features: Enhance AI capabilities for better car recommendations.
 
 🤝 Contribution
 
-Feel free to fork, raise issues, or submit pull requests to enhance the project.
+Contributions are welcome! Feel free to fork the repository, submit issues, or open pull requests to improve VEHIQL.
 
 📌 Author
 
-Aditya Kumar Dubey – Full Stack Developer | AI Enthusiast
+Aditya Kumar Dubey
+Full Stack Developer | AI Enthusiast
 GitHub
  | LinkedIn
